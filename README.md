@@ -1,4 +1,4 @@
-# deep_learning_for_quantum_chemistry
+# Deep Learning for Quantum Chemistry
 
 # Introduction
 SchNet was introduced in 2017 by Schutt et al [[1]]. The authors have provided open-
